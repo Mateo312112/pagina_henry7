@@ -5,7 +5,7 @@ body {
 }
 
 .section1 {
-    background-image: url(/assets/Fondo.png);
+    background-image: url(assets/Fondo.png);
     height: 84vh;
     background-repeat: no-repeat;
 
@@ -189,56 +189,56 @@ header {
 }
 
 .a {
-    background-image: url(/assets/photo01.png);
+    background-image: url(assets/photo01.png);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .b {
-    background-image: url(/assets/photo02.png);
+    background-image: url(assets/photo02.png);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .c {
-    background-image: url(/assets/photo03.png);
+    background-image: url(assets/photo03.png);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .d {
-    background-image: url(/assets/photo04.png);
+    background-image: url(assets/photo04.png);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .e {
-    background-image: url(/assets/photo05.png);
+    background-image: url(assets/photo05.png);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .f {
-    background-image: url(/assets/photo06.png);
+    background-image: url(assets/photo06.png);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .g {
-    background-image: url(/assets/photo07.png);
+    background-image: url(assets/photo07.png);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .h {
-    background-image: url(/assets/photo08.png);
+    background-image: url(assets/photo08.png);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -338,7 +338,7 @@ header {
     height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/assets/bg_whoIs.png);
+    background-image: url(assets/bg_whoIs.png);
     color: white;
 
 }
@@ -417,7 +417,7 @@ header {
 
 .section8 {
     padding: 40PX 370PX;
-    background-image: url(/assets/bg_contact.png);
+    background-image: url(assets/bg_contact.png);
     height: 100vh;
     background-repeat: no-repeat;
     margin: 0;
